@@ -20,6 +20,22 @@ Welcome to the Weather App repository! This project is a web application that pr
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
+### Installation
+
+1. Clone the repository:
+```sh
+ git clone https://github.com/Nightyelf2403/WEATHER-APP.git
+```
+2. Navigate to the project directory:
+```sh 
+cd weather
+```
+3. Change API key for all the js files
+```javascript
+let apiKey = "Your API Key";
+``` 
+4. Open `index.html` in your browser to view the project.
+
 
 ### Prerequisites
 
